@@ -36,3 +36,7 @@ Semafory widelce, ksiazki i nakrycia to tablice semaforów binarnych.
 ### Przyjęte w programie liczby (możliwe do zmiany):
 - czytelnicy: 10
 - książki: 30
+
+## Uruchomienie
+
+Program można uruchomić za pomocą pliku <b>Prj2/bin/Release/Prj2.exe</b> lub przechodząc do solucji projektu (<b>Prj2 - ucztujący czytelnicy.sln</b>) i uruchamiając program w Visual Studio za pomocą przycisku 'Start'.
