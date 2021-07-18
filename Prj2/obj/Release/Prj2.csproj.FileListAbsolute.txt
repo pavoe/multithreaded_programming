@@ -1,0 +1,6 @@
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\bin\Release\Prj2.exe.config
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\bin\Release\Prj2.exe
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\bin\Release\Prj2.pdb
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\obj\Release\Prj2.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\obj\Release\Prj2.exe
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\obj\Release\Prj2.pdb

@@ -1,0 +1,14 @@
+C:\Users\paulo\Desktop\Prj2 - ucztujący czytelnicy\Prj2\bin\Debug\Prj2.exe.config
+C:\Users\paulo\Desktop\Prj2 - ucztujący czytelnicy\Prj2\bin\Debug\Prj2.exe
+C:\Users\paulo\Desktop\Prj2 - ucztujący czytelnicy\Prj2\bin\Debug\Prj2.pdb
+C:\Users\paulo\Desktop\Prj2 - ucztujący czytelnicy\Prj2\obj\Debug\Prj2.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\Prj2 - ucztujący czytelnicy\Prj2\obj\Debug\Prj2.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Prj2 - ucztujący czytelnicy\Prj2\obj\Debug\Prj2.exe
+C:\Users\paulo\Desktop\Prj2 - ucztujący czytelnicy\Prj2\obj\Debug\Prj2.pdb
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\bin\Debug\Prj2.exe.config
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\bin\Debug\Prj2.exe
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\bin\Debug\Prj2.pdb
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\obj\Debug\Prj2.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\obj\Debug\Prj2.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\obj\Debug\Prj2.exe
+C:\Users\paulo\OneDrive\uczelniaOnline\#S4\Programowanie wielowątkowe\Projekty\Prj2 - ucztujący czytelnicy\Prj2\obj\Debug\Prj2.pdb
