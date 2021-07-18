@@ -1,5 +1,7 @@
 # programowanie_wielowątkowe
 
+## O projekcie
+
 Projekt stworzony podczas zajęć z Programowania Wielowątkowego (Informatyka, SGGW) wykorzystujący znajomość <b>semaforów</b>, napisany w <b>C#</b>.
 
 Zadanie polega na rozwiązaniu sytuacji przypominającej problem ucztujących filozofów (https://pl.wikipedia.org/wiki/Problem_ucztuj%C4%85cych_filozof%C3%B3w). Istnieją jednak dwie modyfikacje:
@@ -15,7 +17,7 @@ Zadanie polega na rozwiązaniu sytuacji przypominającej problem ucztujących fi
 * Czytelnik 1 skończył jeść i czytać książkę 5.
 * Czytelnik 1 odszedł od nakrycia 2.
 
-<b>Opis zastosowanej synchronizacji:</b>
+## Opis zastosowanej synchronizacji:
 
 Synchronizacja przebiega dzięki użyciu kilku semaforów.
 1) SemaphoreSlim[] widelce
@@ -31,6 +33,6 @@ Semafory widelce, ksiazki i nakrycia to tablice semaforów binarnych.
 * Dzięki semaforom nakrycia zanim czytelnik usiądzie w jakimś wylosowanym miejscu, najpierw upewni się, że może tam usiąść, tj. że nikogo tam nie ma. Jeśli ktoś tam jest, następuje ponowne losowanie miejsca, aż do skutku.
 
 
-<b>Przyjęte w programie liczby (możliwe do zmiany):</b>
+### Przyjęte w programie liczby (możliwe do zmiany):
 - czytelnicy: 10
 - książki: 30
